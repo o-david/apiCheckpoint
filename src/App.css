@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  row-gap: 5vh;
+}
+.user {
+  border: 1px grey solid;
+  flex-basis: 30%;
+  padding: 16px;
+}
